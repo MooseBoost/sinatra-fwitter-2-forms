@@ -134,3 +134,5 @@ After, let's redirect back to the home page (if you're working from an older rep
 ## Conclusion
 
 Restart your server, and create some new tweet! You can now update your application dynamically based on user input. Awesome! In our next iteration of Fwitter, we'll add a database so that our tweets will persist permanently. 
+
+<a href='https://learn.co/lessons/sinatra-fwitter-2-forms' data-visibility='hidden'>View this lesson on Learn.co</a>
